@@ -1,0 +1,3 @@
+[submodule "my_plugins/ultisnips"]
+	path = my_plugins/ultisnips
+	url = https://github.com/sirver/ultisnips
