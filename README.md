@@ -15,7 +15,7 @@ The awesome version includes a lot of great plugins, configurations and color sc
 ## My changes
 I add a few more plugins:
 - Add the [vimtex](https://github.com/lervag/vimtex) plugin for writing latex in vim.
-The vimtex settings can be specified in the file `ftplugin/tex.vim`.
+The vimtex settings can be specified in the file `ftplugin/tex.vim` and `vimrcs/plugins_config.vim`.
 
 - Add a snippet engine [ultisnips](https://github.com/SirVer/ultisnips).
 Notice this plugin requires python3-supported vim, which is included by default if vim is installed using Homebrew.
