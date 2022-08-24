@@ -191,3 +191,14 @@ xnoremap <leader>v :'<'>GBrowse!<CR>
 " => vimtex
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:vimtex_view_method = 'skim'
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => vim-header
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:header_field_author = 'Xinliang(Bruce) Lyu'
+let g:header_field_author_email = 'lyu@issp.u-tokyo.ac.jp'
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+" => ultisnips
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+let g:ultisnips_python_style = 'google'
