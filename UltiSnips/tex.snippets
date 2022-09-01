@@ -68,3 +68,14 @@ while True:
 snip.rv = stripped[0:i] + "\\frac{" + stripped[i+1:-1] + "}"
 `{$1}$0
 endsnippet
+
+snippet txt "Text" wA
+\text{${1:${VISUAL}}}$0
+endsnippet
+
+
+snippet enumal "Enumerate abc" bi
+\begin{enumerate}[label=(\alph*)]
+	\item ${0:${VISUAL}}
+\end{enumerate}
+endsnippet
