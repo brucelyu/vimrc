@@ -191,6 +191,10 @@ xnoremap <leader>v :'<'>GBrowse!<CR>
 " => vimtex
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 let g:vimtex_view_method = 'skim'
+let g:vimtex_toc_config = {
+        \ 'split_pos': 'vert topleft',
+        \ 'split_width': 25,
+        \ }
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => vim-header
