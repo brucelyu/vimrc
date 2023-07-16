@@ -7,3 +7,6 @@
 [submodule "my_plugins/vim-header"]
 	path = my_plugins/vim-header
 	url = https://github.com/alpertuna/vim-header
+[submodule "my_plugins/markdown-preview.nvim"]
+	path = my_plugins/markdown-preview.nvim
+	url = git@github.com:iamcco/markdown-preview.nvim.git

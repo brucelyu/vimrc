@@ -22,6 +22,7 @@ Notice this plugin requires python3-supported vim, which is included by default 
 User-defined snippets can be added in directory `UltiSnips/`.
 Tons of snnipets have been included in the directory `sources_non_forked/vim-snippets/` of the original vimrc repository.
 - Add the [simpylfold](https://github.com/tmhedberg/SimpylFold) plugin for the python code folding.
+- (On 16 July 2023) Add the [markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) plugin to preview markdown files.
 
 Note that I add plugins as submodule; to pull from submodule, I follow the post [here](https://stackoverflow.com/questions/1030169/pull-latest-changes-for-all-git-submodules). Basically,
 
