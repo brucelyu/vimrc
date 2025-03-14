@@ -206,8 +206,8 @@ let g:vimtex_toc_config = {
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => vim-header
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-let g:header_field_author = 'Xinliang(Bruce) Lyu'
-let g:header_field_author_email = 'lyu@issp.u-tokyo.ac.jp'
+let g:header_field_author = 'Xinliang (Bruce) Lyu'
+let g:header_field_author_email = 'xlyu@ihes.fr'
 
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 " => ultisnips
